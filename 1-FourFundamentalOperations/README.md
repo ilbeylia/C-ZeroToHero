@@ -1,6 +1,6 @@
 ## Project Structure
 
-The repository includes several C programs focusing on the following:
+The project includes several C fonsiyon focusing on the following:
 
 - **Addition:** A function to add two integers.
 - **Subtraction:** A function to subtract one integer from another.
