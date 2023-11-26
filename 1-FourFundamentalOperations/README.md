@@ -1,12 +1,24 @@
-# C-ZeroToHero
+## Project Structure
 
-## Overview
+The repository includes several C programs focusing on the following:
 
-"C-ZeroToHero" is a repository dedicated to advancing skills in the C programming language. The goal is to build projects ranging from low-level to high-level, exploring various structures and concepts.<br>
-## Projects<br>
-1.FourFundamentalOperations
-2.will be added...
+- **Addition:** A function to add two integers.
+- **Subtraction:** A function to subtract one integer from another.
+- **Multiplication:** A function to multiply two integers.
+- **Division:** A function to divide one integer by another, handling the division by zero scenario.
 
-## Contributing<br>
-Feel free to contribute by adding more projects, improving existing code, or suggesting enhancements. Fork the repository, make your changes, and submit a pull request.<br>
+## Getting Started
 
+1. Clone the repository to your local machine.
+2. Compile the C programs using a C compiler (e.g., GCC).
+3. Run the compiled executable.
+4. Enter two numbers and the desired operator when prompted.
+5. View the result of the operation.
+
+## Example Usage
+
+```bash
+$ gcc main.c -o calculator
+$ ./calculator
+Enter the two numbers and the operator for the operation to be performed: 10, 5, +
+Result: 15
